@@ -1,6 +1,6 @@
 {
-  "name": "passport-facebook",
-  "version": "2.1.1",
+  "name": "passport-facebook-2.10",
+  "version": "2.2",
   "description": "Facebook authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -11,16 +11,16 @@
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Krishna",
+    "email": "krishna2nd@gmail.com",
+    "url": "http://krishna2nd.github.io/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-facebook.git"
+    "url": "git://github.com/krishna2nd/passport-facebook.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-facebook/issues"
+    "url": "http://github.com/krishna2nd/passport-facebook/issues"
   },
   "license": "MIT",
   "licenses": [
